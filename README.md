@@ -26,4 +26,4 @@ Run it for 3 hours - earn $28M and up to 1,400`,000 RP
 Run it for 24hours- earn $100M and up to 5,000,000 RP 
 
 Credits - Kiddion for ModestMenu https://www.unknowncheats.me/forum/grand-theft-auto-v/464657-kiddions-modest-external-menu-thread-2-a.html
-Terrobility for Macro https://github.com/Terrobility/GTA5-KiddionAssistMacro
+Terrobility for Macro 
