@@ -4,7 +4,7 @@
  Keyboard Macro for Modest Menu .
 
 How to Run Macro :
-Requires AHK to be installed .
+Requires AHK to be installed . https://www.autohotkey.com/
 1. Run Directly from "Money Ghost for Modest Menu.ahk "
 2. Double Click or right Click and "Run Script"
 
